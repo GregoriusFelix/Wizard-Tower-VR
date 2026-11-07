@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dff43090f94cf2c4fb5294fe1252fdd3, type: 3}
+  m_Name: InteractionAudio
+  m_EditorClassIdentifier: Assembly-CSharp::InteractionAudio
+  chain: {fileID: 8300000, guid: 4d6068cfb341ec642886782610e2ac05, type: 3}
+  chest: {fileID: 8300000, guid: 9ee32c9bacc64354884e0887d62e9fed, type: 3}
+  doorKnock: {fileID: 8300000, guid: 4a6ac1a3dd752204c9f7ed705d66bc0a, type: 3}
+  doorOpen: {fileID: 8300000, guid: bb1ad2174acb8d44ab5f56a68c5d306b, type: 3}
+  fire: {fileID: 8300000, guid: 480eba36d4e70074e80f5f88cb4f2ff9, type: 3}
+  pencil: {fileID: 8300000, guid: ee558d79898646340b8ec964bd3235a9, type: 3}
+  pumpkin: {fileID: 8300000, guid: fb53923df3e6a264c9f8b911277a9ba3, type: 3}
+  teleport: {fileID: 8300000, guid: f7a656a248d9970468f8476d4fc80c6b, type: 3}
+  portal: {fileID: 8300000, guid: 8089a1a09d5383e4d9624dc5dde721ca, type: 3}
+  magicGlow: {fileID: 8300000, guid: 2c00806f070783642aa92252ddc49d13, type: 3}
+  stir: {fileID: 8300000, guid: 14b379652940cd4429910a2bd81fb01d, type: 3}
+  bigWaves: {fileID: 8300000, guid: 6f314a8e9a194e14aa0d9b9cb45f6e82, type: 3}
+  asteroid: {fileID: 8300000, guid: 88db7098e28df484abd345531381398c, type: 3}
+  earthquake: {fileID: 8300000, guid: 8e32a91ed636bdf41974de550c66856b, type: 3}
+  tornado: {fileID: 8300000, guid: f113a093fcce48c99d3ea703ece55206, type: 3}
+  stoneFalling: {fileID: 8300000, guid: 7adfa684bceeee6489fea967fd40e4bf, type: 3}
+  golemStomp: {fileID: 8300000, guid: 4e2700e3cd9a7ca40ad3eb571e81f036, type: 3}
+  axeChop: {fileID: 8300000, guid: edb7d5f34af0ba8469892d3b1f428ca6, type: 3}
+  magicEnhance: {fileID: 8300000, guid: 30a9354d227c3504f948296bde9c6ac1, type: 3}
+  pouring: {fileID: 8300000, guid: c4a5bb839be29d14e818506f0a99e9b3, type: 3}
+  chair: {fileID: 8300000, guid: df8db0bbe3418a047b1ef21850f6513a, type: 3}
+  effectsVolume: 0.7
+  chainVolume: 1
+  chestVolume: 1
+  doorKnockVolume: 1
+  doorOpenVolume: 1
+  pencilVolume: 1
+  pumpkinVolume: 1
+  teleportVolume: 1
+  portalVolume: 1
+  magicGlowVolume: 1
+  stirVolume: 1
+  bigWavesVolume: 1
+  asteroidVolume: 1
+  earthquakeVolume: 1
+  tornadoVolume: 1
+  stoneFallingVolume: 1
+  golemStompVolume: 1.4
+  axeChopVolume: 1
+  magicEnhanceVolume: 1
+  pouringVolume: 1
+  chairVolume: 1
+  pouringStartTime: 4.5
+  golemStompSpatialBlend: 0.2
+  golemStompStartTime: 0.75
+  fireVolume: 0.18
